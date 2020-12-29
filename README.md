@@ -1,3 +1,7 @@
+nuxt-larave-dockerでcrud作るサンプル。
+herokuまで確認済み。
+
+
 # nuxt
 
 ## Build Setup
